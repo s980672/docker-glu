@@ -10,4 +10,4 @@ Once in...
 nginx
 ```
 
-Now you can hit http://<ip>/console to see Glu.
+Now you can hit http://hostname/console to see Glu.
